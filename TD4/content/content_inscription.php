@@ -1,0 +1,1 @@
+<h1>This is an inscription page.</h1>
